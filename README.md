@@ -1,8 +1,8 @@
 # Secret
 an web application which stores your secret messages
 
-#Installation
+# Installation
 npm i express body-parser
 
-#Run
+# Run
 nodemon app.js
